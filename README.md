@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：复查实践
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 093 篇 - 百家乐Ai预测分析工具：网络中断再恢复时怎样补齐历史](https://github.com/TGmszrcsz/baccarat-ai-093) ｜ [下一篇：第 095 篇 - 百家乐Ai预测分析工具：发现统计对不上时从最小范围开始排查](https://github.com/TGmszrcsz/baccarat-ai-095)
+
+<!-- article-chain:end -->
+
 工具已运行较久，只有零散截图可以查看。本篇围绕“连续运行一段时间后怎样做阶段复盘”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、为什么值得单独检查
